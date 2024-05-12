@@ -1,0 +1,7 @@
+os
+pandas
+tensorflow
+numpy
+tensorflow-keras
+matplotlib
+gradio
